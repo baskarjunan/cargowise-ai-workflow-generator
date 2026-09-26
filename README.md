@@ -15,7 +15,7 @@ An enterprise-grade automation tool designed for global logistics and freight fo
 
 ## 📺 Demo Video
 Watch the live walkthrough of the tool in action:
-👉 [Click here to watch the demo video on LinkedIn/YouTube](உனது_வீடியோ_லிங்க்கை_இங்கே_போடு)
+👉https://lnkd.in/p/gCqp72zU
 
 ## 📦 Local Installation & Run
 1. Clone the repository:
